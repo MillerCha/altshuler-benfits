@@ -1,11 +1,13 @@
 I didn't sure which clicking need to update the children state, so I coded two versions: 
 
 Container1
+
 After clicking on the button, pie diagram and exchange rate will be presented for 5 seconds. the button disabled until the diagram and  exchange rate disappear.
 The values in the children components is updated when clicking on the diagram.
 The components are communicate with rxjs.
 
 Container2
+
 After click on the button, pie diagram and exchange rate will be presented for 5 seconds. The values in the children components is updated when clicking on the button.
 
 
