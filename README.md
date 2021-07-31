@@ -3,8 +3,11 @@ Download command:
 git clone https://github.com/MillerCha/altshuler-benfits
 
 on the new directory:
+
 npm install
+
 npm start
+
 
 I didn't sure which clicking need to update the children state, so I coded two versions on one page: 
 
