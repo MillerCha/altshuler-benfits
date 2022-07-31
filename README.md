@@ -9,7 +9,7 @@ npm install
 npm start
 
 
-I didn't sure which clicking need to update the children state, so I coded two versions on one page: 
+I coded two versions on one page: 
 
 Container1
 
